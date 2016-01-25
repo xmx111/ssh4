@@ -14,7 +14,7 @@
 
 ## Features
 
-* 面向主流企业级WEB应用系统的界面和常用基础功能设计实现
+* 面向主流企业级WEB应用系统的界面和常用基础功能设计实现1s
 * 主体基于主流的（Spring MVC + Spring3 + Hibernate4）架构
 * 引入JPA、Spring-Data-JPA提升持久层架构规范性和开发效率
 * 基于流行JQuery/Bootstrap等UI框架和插件整合，良好的浏览器兼容性和移动设备访问支持
